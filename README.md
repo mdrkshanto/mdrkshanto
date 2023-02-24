@@ -24,6 +24,6 @@ Here are a few examples of projects I've worked on:
 
 <!-- ## Contact Me -->
 
-<!-- If you're interested in working together on a project or just want to chat, feel free to reach out to me on [LinkedIn](link) or [Twitter](link). -->
+If you're interested in working together on a project or just want to chat, feel free to reach out to me on [Facebook]([link](https://www.facebook.com/mdrkshantobd)) or [github]([link](https://github.com/mdrkshanto)).
 
 Thanks for stopping by!
