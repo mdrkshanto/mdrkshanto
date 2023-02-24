@@ -1,6 +1,12 @@
 # Hi, I'm Md. Rezaul Karim Shanto!
 
-I'm a full-stack web developer with a passion for building high-quality web applications. With years of experience in both frontend and backend development, I specialize in creating responsive, user-friendly websites that are optimized for performance and scalability.
+Hi there! I'm a full-stack web developer with a passion for building high-quality web applications that are both beautiful and functional. With years of experience in both frontend and backend development, I specialize in creating responsive, user-friendly websites that are optimized for performance and scalability.
+
+My skillset includes a wide range of technologies, including HTML, CSS, JavaScript, PHP, Laravel, Vue.js and MySQL, among others. Whether I'm building a simple website or a complex web application, I always strive to deliver clean, efficient code that meets the highest standards of quality and performance.
+
+In addition to my technical skills, I also have a strong background in project management and team collaboration. I'm experienced in agile development methodologies and have worked closely with cross-functional teams to deliver successful projects on time and within budget.
+
+If you're looking for a skilled and reliable full-stack web developer who is passionate about creating exceptional web experiences, I'd love to connect with you. Let's build something great together!
 
 ## Skills
 
