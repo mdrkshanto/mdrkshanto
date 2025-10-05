@@ -12,6 +12,7 @@ If you're looking for a skilled and reliable full-stack web developer who is pas
 
 - **Frontend:** HTML, CSS, JavaScript, Vue.js
 - **Backend:** PHP, Laravel
+- **Restfull API:** Laravel sanctum
 - **Database:** MySQL
 
 <!-- ## Projects
