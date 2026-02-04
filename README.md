@@ -26,6 +26,6 @@ Here are a few examples of projects I've worked on:
 
 <!-- ## Contact Me -->
 
-If you're interested in working together on a project or just want to chat, feel free to reach out to me on [Facebook](https://www.facebook.com/professional.laravel.developer) or [github](https://github.com/mdrkshanto).
+If you're interested in working together on a project or just want to chat, feel free to reach out to me on [Facebook](https://www.facebook.com/laravel.developer.shantobd) or [github](https://github.com/mdrkshanto).
 
 Thanks for stopping by!
