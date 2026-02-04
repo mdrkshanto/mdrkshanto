@@ -14,6 +14,7 @@ If you're looking for a skilled and reliable full-stack web developer who is pas
 - **Backend:** PHP, Laravel
 - **Restfull API:** Laravel sanctum
 - **Database:** MySQL
+- **SEO:** Off Page, On Page
 
 <!-- ## Projects
 
