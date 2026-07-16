@@ -82,15 +82,15 @@ I am an experienced **Full-Stack Developer** with a passion for building robust 
 
 ### 🛠️ Featured Portfolio & Projects
 
-* **Aorabooks** – <a href="https://aorabooks.com" target="_blank">Live View</a>
+* **Aorabooks** – <a href="https://aorabooks.com" rel="nofollow" target="_blank">**[ Visit Live Site ]**</a>
   * A highly secure, enterprise-level eCommerce ecosystem focusing on fluid UI/UX interactions, scalable inventory, and smooth multi-vendor payment workflows.
-* **InfixEdu (School Management System)** – <a href="https://infixhub.com/school-management-system" target="_blank">Live View</a>
+* **InfixEdu (School Management System)** – <a href="https://infixhub.com/school-management-system" rel="nofollow" target="_blank">**[ Visit Live Site ]**</a>
   * Ultimate Academy and School ERP solution handling student lifecycles, grading systems, automated attendance, and administrative workflows.
-* **InfixLMS (Learning Management System)** – <a href="https://infixlms.ischooll.com" target="_blank">Live View</a>
+* **InfixLMS (Learning Management System)** – <a href="https://infixlms.ischooll.com" rel="nofollow" target="_blank">**[ Visit Live Site ]**</a>
   * A scalable remote learning platform featuring course management, dynamic quiz builders, student analytics, and video streaming architectures.
-* **InfixAdvocate (Lawyer Management System)** – <a href="https://infixhub.com/infixadvocate" target="_blank">Live View</a>
+* **InfixAdvocate (Lawyer Management System)** – <a href="https://infixhub.com/infixadvocate" rel="nofollow" target="_blank">**[ Visit Live Site ]**</a>
   * A niche SaaS platform designed to streamline law firm operations, client appointments, case scheduling, and digital legal documentation.
-* **Amazcart** – <a href="https://amazcart.ischooll.com" target="_blank">Live View</a>
+* **Amazcart** – <a href="https://amazcart.ischooll.com" rel="nofollow" target="_blank">**[ Visit Live Site ]**</a>
   * A powerful multi-vendor eCommerce marketplace platform featuring dynamic product attributes, comprehensive checkout options, and extensive merchant controls.
 
 ---
@@ -98,9 +98,9 @@ I am an experienced **Full-Stack Developer** with a passion for building robust 
 ### 📫 Connect with Me
 
 * 📞 **Phone:** +8801978167206
-* 💬 **WhatsApp:** <a href="https://wa.me/8801978167206" target="_blank">+8801978167206</a> (Username: `mdrkshanto`)
+* 💬 **WhatsApp:** <a href="https://wa.me/8801978167206" rel="nofollow" target="_blank">+8801978167206</a> (Username: `mdrkshanto`)
 * 📧 **Email:** bdshantosignup@outlook.com
-* 🌐 **Facebook:** <a href="https://www.facebook.com/professional.laravel.developer" target="_blank">Professional Laravel Developer</a>
+* 🌐 **Facebook:** <a href="https://www.facebook.com/professional.laravel.developer" rel="nofollow" target="_blank">Professional Laravel Developer</a>
 * 📍 **Location:** North Badda, Dhaka, Bangladesh
 
 ---
