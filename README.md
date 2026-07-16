@@ -82,14 +82,16 @@ I am an experienced **Full-Stack Developer** with a passion for building robust 
 
 ### 🛠️ Featured Portfolio & Projects
 
-* **Aorabook (eCommerce Management System)**
+* **Aorabooks** – [Live View](https://aorabooks.com)
   * A highly secure, enterprise-level eCommerce ecosystem focusing on fluid UI/UX interactions, scalable inventory, and smooth multi-vendor payment workflows.
-* **Infix LMS (Learning Management System)** – [Live View](https://infixlms.infixlive.com/)
-  * A scalable remote learning system featuring course management, dynamic quiz builders, student analytics, and video streaming architectures.
-* **Lawcham (Lawyer Management System)** – [Live View](https://lawcham.com/)
-  * A niche SaaS platform designed to streamline law firm operations, client appointments, case scheduling, and digital legal documentation.
-* **Infix Edu (Education Management System)** – [Live View](https://infixedu.infixlive.com/)
+* **InfixEdu (School Management System)** – [Live View](https://infixhub.com/school-management-system)
   * Ultimate Academy and School ERP solution handling student lifecycles, grading systems, automated attendance, and administrative workflows.
+* **InfixLMS (Learning Management System)** – [Live View](https://infixlms.ischooll.com)
+  * A scalable remote learning platform featuring course management, dynamic quiz builders, student analytics, and video streaming architectures.
+* **InfixAdvocate (Lawyer Management System)** – [Live View](https://infixhub.com/infixadvocate)
+  * A niche SaaS platform designed to streamline law firm operations, client appointments, case scheduling, and digital legal documentation.
+* **Amazcart** – [Live View](https://amazcart.ischooll.com)
+  * A powerful multi-vendor eCommerce marketplace platform featuring dynamic product attributes, comprehensive checkout options, and extensive merchant controls.
 
 ---
 
