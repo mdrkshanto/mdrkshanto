@@ -106,7 +106,7 @@ I am an experienced **Full-Stack Developer** with a passion for building robust 
 ---
 
 ### 📊 GitHub Activity
-<!-- working alternative fallback for markdown stats -->
+<!-- Added count_private=true parameter for total repositories count -->
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdrkshanto&show_icons=true&theme=radial&hide_border=true" alt="Shanto's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdrkshanto&show_icons=true&count_private=true&theme=radial&hide_border=true" alt="Shanto's GitHub Stats" />
 </p>
