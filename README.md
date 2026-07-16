@@ -82,15 +82,15 @@ I am an experienced **Full-Stack Developer** with a passion for building robust 
 
 ### 🛠️ Featured Portfolio & Projects
 
-* **Aorabooks** – [Live View](https://aorabooks.com)
+* **Aorabooks** – <a href="https://aorabooks.com" target="_blank">Live View</a>
   * A highly secure, enterprise-level eCommerce ecosystem focusing on fluid UI/UX interactions, scalable inventory, and smooth multi-vendor payment workflows.
-* **InfixEdu (School Management System)** – [Live View](https://infixhub.com/school-management-system)
+* **InfixEdu (School Management System)** – <a href="https://infixhub.com/school-management-system" target="_blank">Live View</a>
   * Ultimate Academy and School ERP solution handling student lifecycles, grading systems, automated attendance, and administrative workflows.
-* **InfixLMS (Learning Management System)** – [Live View](https://infixlms.ischooll.com)
+* **InfixLMS (Learning Management System)** – <a href="https://infixlms.ischooll.com" target="_blank">Live View</a>
   * A scalable remote learning platform featuring course management, dynamic quiz builders, student analytics, and video streaming architectures.
-* **InfixAdvocate (Lawyer Management System)** – [Live View](https://infixhub.com/infixadvocate)
+* **InfixAdvocate (Lawyer Management System)** – <a href="https://infixhub.com/infixadvocate" target="_blank">Live View</a>
   * A niche SaaS platform designed to streamline law firm operations, client appointments, case scheduling, and digital legal documentation.
-* **Amazcart** – [Live View](https://amazcart.ischooll.com)
+* **Amazcart** – <a href="https://amazcart.ischooll.com" target="_blank">Live View</a>
   * A powerful multi-vendor eCommerce marketplace platform featuring dynamic product attributes, comprehensive checkout options, and extensive merchant controls.
 
 ---
@@ -98,9 +98,9 @@ I am an experienced **Full-Stack Developer** with a passion for building robust 
 ### 📫 Connect with Me
 
 * 📞 **Phone:** +8801978167206
-* 💬 **WhatsApp:** [+8801978167206](https://wa.me/8801978167206) (Username: `mdrkshanto`)
+* 💬 **WhatsApp:** <a href="https://wa.me/8801978167206" target="_blank">+8801978167206</a> (Username: `mdrkshanto`)
 * 📧 **Email:** bdshantosignup@outlook.com
-* 🌐 **Facebook:** [Professional Laravel Developer](https://www.facebook.com/professional.laravel.developer)
+* 🌐 **Facebook:** <a href="https://www.facebook.com/professional.laravel.developer" target="_blank">Professional Laravel Developer</a>
 * 📍 **Location:** North Badda, Dhaka, Bangladesh
 
 ---
