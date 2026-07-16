@@ -1,31 +1,110 @@
-# Hi, I'm Md. Rezaul Karim Shanto!
+# Hi there, I'm Md Rezaul Karim Shanto! 👋
+### Senior Full-Stack Web & Mobile App Developer (Laravel & Vue.js)
 
-Hi there! I'm a full-stack web developer with a passion for building high-quality web applications that are both beautiful and functional. With 3 years of experience in both frontend and backend development, I specialize in creating responsive, user-friendly websites that are optimized for performance and scalability.
+<p align="left">
+  <a href="https://github.com/mdrkshanto"><img src="https://img.shields.io/github/followers/mdrkshanto?label=Follow&style=social" alt="GitHub Follow"></a>
+</p>
 
-My skillset includes a wide range of technologies, including HTML, CSS, JavaScript, PHP, Laravel, Vue.js and MySQL, among others. Whether I'm building a simple website or a complex web application, I always strive to deliver clean, efficient code that meets the highest standards of quality and performance.
+I am an experienced **Full-Stack Developer** with a passion for building robust web ecosystems and high-performance native applications. With expertise in advanced PHP architectures and modern frontend frameworks, I specialize in transforming complex business logic into clean, scalable code.
 
-In addition to my technical skills, I also have a strong background in project management and team collaboration. I'm experienced in agile development methodologies and have worked closely with cross-functional teams to deliver successful projects on time and within budget.
+---
 
-If you're looking for a skilled and reliable full-stack web developer who is passionate about creating exceptional web experiences, I'd love to connect with you. Let's build something great together!
+### 🚀 What I Bring to the Table
+* **Backend Mastery:** Designing secure RESTful APIs, implementing Repository MVC patterns, and managing advanced database optimization in Laravel.
+* **Modern Frontend:** Developing highly interactive, reactive Single Page Applications (SPAs) leveraging Vue.js, Inertia.js, and Livewire.
+* **Mobile Ecosystem:** Bridging the gap between web and mobile by creating high-performance **native mobile applications** entirely powered by Laravel backends.
+* **DevOps & Tooling:** Proficient in environment automation, dual-boot Linux development, and version control workflows.
 
-## Skills
+---
 
-- **Frontend:** HTML, CSS, jQuery, Bootstrap, JavaScript, VueJs, Laravel Livewire
-- **Backend:** PHP, Laravel
-- **Restfull API:** Laravel sanctum
-- **Database:** MySQL
-- **SEO:** Off Page, On Page
+### 🛠️ Tech Stack & Skills
 
-<!-- ## Projects
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
+      <br>PHP (OOP)
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="48" height="48" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js" />
+      <br>Vue.js / Vuex
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="48" height="48" alt="jQuery" />
+      <br>jQuery / AJAX
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+  </tr>
+</table>
 
-Here are a few examples of projects I've worked on:
+**Core Toolkit:** Inertia.js, Livewire, JSON Web Tokens (JWT), REST APIs Architecture, Git, Linux/Ubuntu environments.
 
-- [Project Name 1](link): Brief description of the project.
-- [Project Name 2](link): Brief description of the project.
-- [Project Name 3](link): Brief description of the project. -->
+---
 
-<!-- ## Contact Me -->
+### 💼 Professional Experience & Background
 
-If you're interested in working together on a project or just want to chat, feel free to reach out to me on [Facebook](https://www.facebook.com/laravel.developer.shantobd) or [github](https://github.com/mdrkshanto).
+* **Full-Stack & Mobile Developer** | *Remote & Local Contracts*
+  * Spearheaded end-to-end development of comprehensive business modules and full-scale web enterprise architectures.
+  * Specialized in utilizing Laravel to deliver production-ready **native mobile applications**.
+* **Certified Web Design & Development Specialist** | *BITM*
+  * Professionally certified in advanced enterprise application building using Laravel and Vue.js from the BASIS Institute of Technology & Management.
 
-Thanks for stopping by!
+---
+
+### 🛠️ Featured Portfolio & Projects
+
+* **Aorabook (eCommerce Management System)**
+  * A highly secure, enterprise-level eCommerce ecosystem focusing on fluid UI/UX interactions, scalable inventory, and smooth multi-vendor payment workflows.
+* **Infix LMS (Learning Management System)** – [Live View](https://infixlms.infixlive.com/)
+  * A scalable remote learning system featuring course management, dynamic quiz builders, student analytics, and video streaming architectures.
+* **Lawcham (Lawyer Management System)** – [Live View](https://lawcham.com/)
+  * A niche SaaS platform designed to streamline law firm operations, client appointments, case scheduling, and digital legal documentation.
+* **Infix Edu (Education Management System)** – [Live View](https://infixedu.infixlive.com/)
+  * Ultimate Academy and School ERP solution handling student lifecycles, grading systems, automated attendance, and administrative workflows.
+
+---
+
+### 📫 Connect with Me
+
+* 📞 **Phone:** +8801978167206
+* 💬 **WhatsApp:** [+8801978167206](https://wa.me/8801978167206) (Username: `mdrkshanto`)
+* 📧 **Email:** bdshantosignup@outlook.com
+* 🌐 **Facebook:** [Professional Laravel Developer](https://www.facebook.com/professional.laravel.developer)
+* 📍 **Location:** North Badda, Dhaka, Bangladesh
+
+---
+
+### 📊 GitHub Activity
+<!-- working alternative fallback for markdown stats -->
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdrkshanto&show_icons=true&theme=radial&hide_border=true" alt="Shanto's GitHub Stats" />
+</p>
